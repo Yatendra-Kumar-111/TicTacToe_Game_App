@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToe_Game</string>
+    <string name="Grid">Our Grid</string>
+    <string name="welcome">Welcome to Tic-Tac-Toe Game</string>
+    <string name="playerTurn">X\'s Turn</string>
+<!--    <string name="playerTap">playerTap</string>-->
+
+    <string name="img1">image 1</string>
+    <string name="img2">image 2</string>
+    <string name="img3">image 3</string>
+    <string name="img4">image 4</string>
+    <string name="img5">image 5</string>
+    <string name="img6">image 6</string>
+    <string name="img7">image 7</string>
+    <string name="img8">image 8</string>
+    <string name="img9">image 9</string>
+
+
+</resources>
